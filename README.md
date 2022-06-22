@@ -32,7 +32,7 @@ As a developer-friendly app Slides is offering a piece of mind and less stress w
 
 Tutorial - https://www.youtube.com/watch?v=IfKkAo0dSNk
 
-We are sick of having notifications, messages, and information everywhere which is why Slides app takes care that all the info you need is well integrated. That means you can chat, discuss, show, collect emails and polls, provide directions and more. This awesome collection of integrations will expand your selling capabilities.
+We are sick of having notifications, messages, and information everywhere which is why Slides app takes care that all the info you need is well integrated. That means you can chat,, discuss, show, collect emails and polls, provide directions and more. This awesome collection of integrations will expand your selling capabilities.
 
 **Play With Powerful Built-In Modules**
 
